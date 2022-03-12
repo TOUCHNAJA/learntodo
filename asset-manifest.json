@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learntodo/static/css/main.3e4b760e.css",
+    "main.js": "/learntodo/static/js/main.6d92e978.js",
+    "static/js/787.55572d25.chunk.js": "/learntodo/static/js/787.55572d25.chunk.js",
+    "index.html": "/learntodo/index.html",
+    "main.3e4b760e.css.map": "/learntodo/static/css/main.3e4b760e.css.map",
+    "main.6d92e978.js.map": "/learntodo/static/js/main.6d92e978.js.map",
+    "787.55572d25.chunk.js.map": "/learntodo/static/js/787.55572d25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e4b760e.css",
+    "static/js/main.6d92e978.js"
+  ]
+}
