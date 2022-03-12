@@ -52,7 +52,7 @@ function App() {
   return (
     <div>
       <div className="shadow-xl m-5 p-5 rounded-lg backdrop-blur-sm bg-white/30">
-        <div className="text-2xl text-center font-bold mb-3">Miwtoo Todo List</div>
+        <div className="text-2xl text-center font-bold mb-3">Touch Todo List</div>
         <form onSubmit={onClickAddTask} className="flex">
           <input
             className="w-full border border-gray-200 rounded p-2"
